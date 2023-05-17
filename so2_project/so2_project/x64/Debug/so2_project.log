@@ -1,0 +1,4 @@
+﻿  so2_project.cpp
+C:\Users\michal\OneDrive\Dokumenty\Dokumenty\PWR\Semestr 6\Systemy operacyjne 2 INEK00033P\Mgr inż. Mateusz Gniewkowski K03-56a\so2_project\so2_project\so2_project.cpp(20,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\michal\OneDrive\Dokumenty\Dokumenty\PWR\Semestr 6\Systemy operacyjne 2 INEK00033P\Mgr inż. Mateusz Gniewkowski K03-56a\so2_project\so2_project\so2_project.cpp(126,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  so2_project.vcxproj -> C:\Users\michal\OneDrive\Dokumenty\Dokumenty\PWR\Semestr 6\Systemy operacyjne 2 INEK00033P\Mgr inż. Mateusz Gniewkowski K03-56a\so2_project\x64\Debug\so2_project.exe
