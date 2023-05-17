@@ -54,7 +54,6 @@ void takeLeftChopstick(int philosopherNumber, mutex& mutexLeftChopstick, int lef
     // Po uzyskanie dostępu do pałeczki inny wątek nam jej nie zabierze.
     // Blokujemy kolejny mutex, który zablokowuje nam cout.
     //Inny wątek przypadkowo nie przerwie wyświetlania w konsoli.
-    //lock_guard<mutex> lock(mutexLeftChopstick);
     mutexLeftChopstick.lock();
     {
         lock_guard<mutex> lock(mutexCout);
